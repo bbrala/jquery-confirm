@@ -1,5 +1,5 @@
 {
-  "name": "jquery-confirm",
+  "name": "jquery-confirm-npm",
   "version": "2.5.1",
   "title": "jquery-confirm.js | A multipurpose alert and confirm plugin",
   "description": "A jQuery plugin that provides great set of features like, Auto-close, Ajax-loading, background-dismiss, themes and more.",
